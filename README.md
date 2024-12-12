@@ -4,6 +4,8 @@
 <br>
 	2024-12-04 LinkedList [✅]
 <br>
-	2024-12-10 DoubleLinkedList [✅]
+	2024-12-10 DoublyLinkedList [✅]
+<br>
+	2024-12-12 CircularDoublyLinkedList
  
 알고리즘
